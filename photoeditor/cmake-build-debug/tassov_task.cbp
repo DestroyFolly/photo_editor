@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tassov_task"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tassov_task">
+				<Option output="/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/tassov_task" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 tassov_task"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tassov_task/fast">
+				<Option output="/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/tassov_task" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 tassov_task/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/msys64/home/mosko/tassov_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/bmp_process.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/edge_detection.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/filters_errors.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/gaussian_blur.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/grayscale.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/kernel.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/laplace.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/inc/sobel.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/src/bmp_process.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/src/edge_detection.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/src/gaussian_blur.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/src/grayscale.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/src/kernel.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/src/laplace.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/filters/src/sobel.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/inc/bmp_loader.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/inc/filters.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/inc/types.h">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/main.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/src/bmp_loader.c">
+			<Option target="tassov_task"/>
+		</Unit>
+		<Unit filename="/mnt/c/msys64/home/mosko/tassov_task/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

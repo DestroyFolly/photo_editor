@@ -1,0 +1,3 @@
+C:/project_c_new/tassov_task/cmake-build-debug/CMakeFiles/tassov_task.dir
+C:/project_c_new/tassov_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/project_c_new/tassov_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

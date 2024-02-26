@@ -1,0 +1,9 @@
+#ifndef EDITOR_FILTERS_H
+#define EDITOR_FILTERS_H
+#include "../filters/inc/sobel.h"
+#include "../filters/inc/laplace.h"
+#include "../filters/inc/grayscale.h"
+#include "../filters/inc/gaussian_blur.h"
+#include "../filters/inc/edge_detection.h"
+#include "../filters/inc/sobel.h"
+#endif //EDITOR_FILTERS_H
