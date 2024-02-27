@@ -1,2 +1,2 @@
 # photo_editor
-Console app for editing photos
+Console app on C language for editing photos
